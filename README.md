@@ -7,5 +7,5 @@
 **P6**: Given an input string, reverse the string without using any in-built function.  
 **P7**: Given an array of integers, which may contain duplicates, create an array without duplicates.  
 **P8**: Convert a string to hex string (e.g., "abc" to "0x616263")  
-**P9**: Convert a String object to UTF-8 format.  
+**P9**: Take input string in ascii and convert to UTF-8.  
 **P10**: Given an array of integers, reverse the array in-place (without using another temp array, original array will be modified)
