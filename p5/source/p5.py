@@ -8,6 +8,4 @@ def findindex(str1, achar):
         if len(lachar) == 1:
             if achar == str1[i]:
                 return i
-        else:
-            return 'Not valid substring'
-    return 'Not found'
+    return -1
